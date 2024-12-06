@@ -1,2 +1,2 @@
 # my-first-binder
-for the workshop
+This is the repository for the "Zero-to-Binder"
